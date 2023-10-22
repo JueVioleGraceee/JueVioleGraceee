@@ -1,6 +1,6 @@
 ### WELCOME :> <>JueVioleGraceee
 <p align="center">
- <img src="https://raw.githubusercontent.com/RizkyFerdiansyah/RizkyFerdiansyah/master/IMG_16114660952369861.png" width="640" title="Menu" alt="Menu">
+ <img src="https://raw.githubusercontent.com/JueVioleGraceee/JueVioleGraceee/master/1697716706311.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 ### Github Stats
