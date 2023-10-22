@@ -16,5 +16,5 @@
 
 ### Connect With Me 
 * [<img alt="Daniel J Morgan's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Daniel J Morgan</b>](https://www.facebook.com/captena.adekda)<br />
-* [<img alt="RizkyFerdiansyah's GitHub" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>RizkyFerdiansyah</b>](https://github.com/RizkyFerdiansyah)<br />
+* [<img alt="RizkyFerdiansyah's GitHub" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>JueVioleGrace</b>](https://www.instagram.com/juevgrace_/ )<br />
 * [<img alt="Rizky's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Rizky</b>](https://github.com/RizkyFerdiansyah)<br />
