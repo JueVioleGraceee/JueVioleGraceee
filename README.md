@@ -15,6 +15,6 @@
 <a href="https://github.com/RizkyFerdiansyah/MBFNewV1"><img title="MBFNEWV1" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=MBFNewV1&theme=vision-friendly-white"></a>
 
 ### Connect With Me 
-* [<img alt="Rizky Ferdiansyah's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Rizky Ferdiansyah</b>](https://www.facebook.com/captena.adekda)<br />
+* [<img alt="Daniel J Morgan's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Rizky Ferdiansyah</b>](https://www.facebook.com/captena.adekda)<br />
 * [<img alt="RizkyFerdiansyah's GitHub" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>RizkyFerdiansyah</b>](https://github.com/RizkyFerdiansyah)<br />
 * [<img alt="Rizky's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Rizky</b>](https://github.com/RizkyFerdiansyah)<br />
