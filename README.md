@@ -8,11 +8,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyFerdiansyah&code-architects&layout=compact" alt="Top language">
 
 ### Repositories
-<a href="https://github.com/RizkyFerdiansyah/Rizky-X"><img title="Jue-X" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=Rizky-X&theme=vision-friendly-white"></a>
+<a href="https://github.com/RizkyFerdiansyah/Rizky-X"><img title="Jue-X" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=Jue-X&theme=vision-friendly-white"></a>
 <a href="https://github.com/RizkyFerdiansyah/UNIS3X"><img title="UNIS3X" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=UNIS3X&theme=vision-friendly-white"></a>
-<a href="https://github.com/RizkyFerdiansyah/RizkyPro"><img title="Juepro" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=RizkyPro&theme=vision-friendly-white"></a>
-<a href="https://github.com/RizkyFerdiansyah/RizkyNew"><img title="JueNew" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=RizkyNew&theme=vision-friendly-white"></a>
-<a href="https://github.com/RizkyFerdiansyah/JueVioleGracee"><img title="JueVioleGrace" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=MBFNewV1&theme=vision-friendly-white"></a>
+<a href="https://github.com/RizkyFerdiansyah/RizkyPro"><img title="Juepro" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=JuePro&theme=vision-friendly-white"></a>
+<a href="https://github.com/RizkyFerdiansyah/RizkyNew"><img title="JueNew" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=JueNew&theme=vision-friendly-white"></a>
+<a href="https://github.com/RizkyFerdiansyah/JueVioleGracee"><img title="JueVioleGrace" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkyFerdiansyah&repo=JueVioleGrace&theme=vision-friendly-white"></a>
 
 ### Connect With Me 
 * [<img alt="Daniel J Morgan's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Daniel J Morgan</b>](https://www.facebook.com/captena.adekda)<br />
